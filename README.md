@@ -21,7 +21,7 @@ A aplicação possui as seguintes funcionalidades:
 - Responsividade: a interface se ajusta automaticamente de acordo com o tamanho da tela do dispositivo utilizado pelo usuário.
 - Navegação intuitiva: os elementos da interface foram projetados de forma a facilitar a navegação e proporcionar uma experiência agradável ao usuário.
 
-## Autores
+## Autor
 
 - [Tiago Grillo Lermy](https://github.com/TiagoGrilloLermy)
 
