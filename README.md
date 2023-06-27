@@ -3,6 +3,7 @@
 Este é um projeto desenvolvido durante as aulas do DevClub, com base em um desafio proposto pelo professor Rodolfo Mori. A proposta foi criar uma aplicação web responsiva, ou seja, capaz de se adaptar a diferentes dispositivos, como celulares, tablets, notebooks e desktops.
 <div align=center">
 <img src="./assets/wide-covarage-location.png">
+  Acesse: https://tiagogrillolermy.github.io/projeto-responsivo-wide-coverage-location/
 </div>
 
 ## Tecnologias Utilizadas
